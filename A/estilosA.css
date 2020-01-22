@@ -1,0 +1,46 @@
+.logotipo{
+	padding-left: 15px;
+	padding-top: 15px;
+
+}
+
+body{
+	background-color: #E0D7D4 ;
+}
+nav ul{
+	
+	background-color: #F95914 ;
+	padding: 10px;
+	display: inline-block;
+	list-style: none;
+	width: 100%;
+	margin: 10px;
+}
+nav li{
+	float:left;
+	padding:10px;
+}
+nav a{
+	text-decoration: none;
+	color: white;
+
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, tr, td {
+
+	border: 1px solid black;
+	padding: 20px;
+}
+
+article{
+
+	background-color: white;
+	padding: 20px;
+	
+	margin:20px;
+}
+
