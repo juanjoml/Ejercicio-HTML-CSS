@@ -44,3 +44,20 @@ article{
 	margin:20px;
 }
 
+.main .articles{
+
+	width: 60%;
+	float: left;
+}
+
+.asignaturas{
+
+	background-color: #E0D7D4 ;
+}
+
+aside{
+
+	float:left;
+	width: 40%;
+}
+
